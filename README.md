@@ -9,10 +9,10 @@ To solve financial problems and blockchain difficulties, the LINKA team creates 
 It is too difficult to pay for DApp with only cryptocurrencies. Easily pay for DApp by your familiar credit card.
 Combined payments using membership points, cryptocurrencies, and credit cards are also available.
 
-### Linka Mainnet Architecture
+### Linka SmartContract Features
 ![SmartContract Features](./docs/smartcontract_features.png)
 
-### Linka Scanner Architecture
+### Linka SmartContract Description
 ![SmartContract Description](./docs/smartcontract_description.png)
 
 ## Contact
